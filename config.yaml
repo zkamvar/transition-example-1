@@ -81,3 +81,5 @@ profiles:
 
 url: https://preview.carpentries.org/transition-example-1
 workbench-beta: 'true'
+beta-date: '1970-01-01'
+old-url: 'https://zkamvar.github.io/transition-example-1'
